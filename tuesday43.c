@@ -21,5 +21,6 @@ int main()
 	printf("House rent allowence %.2f\n",hra);
 	printf("Dearness allowence %.2f\n",da);
 	printf("Gross salary %.2f",gross);
+	getch();
 	return 0;
 }
